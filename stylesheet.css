@@ -1,0 +1,104 @@
+body{
+    background-color:#E3F6FF;
+    text-align: center;
+    font-family: 'Rubik', sans-serif; 
+}
+h1{
+    font-size: 5.625rem;    
+    margin: top 100px ;
+    font-family: 'Cookie', cursive;
+   line-height: 2em;
+  color: #11999E;
+}
+h2 { color: #11999E;
+    font-weight: normal(400)   ; 
+    font: size 2.5rem;
+    font-family: 'Montserrat', sans-serif;
+    padding-bottom:10px;
+    }
+   
+  h3 { 
+    margin: 30px;
+    color: #11999E;
+        font-weight: normal(400)   ; 
+        font: size 2.5rem;
+        font-family: 'Montserrat', sans-serif;
+        }
+        p{
+            line-height: 2;
+        }
+hr{
+    border:dotted #B4E4FF 6px;
+    border-bottom:none;
+    width:4%;
+    margin:100px auto;
+}
+a{
+    color:#11999E;
+    font-family:'Montserrat',sans-serif;
+    margin:10px 20px;
+    text-decoration:none;
+}
+a:hover{
+    color:#EAF6F6;
+}
+
+
+#profile{
+    width: 200px;
+    height: 200px;
+    border-radius: 56%;
+}
+#codeimg{ width: 200px;
+    height: 200px;
+    border-radius: 56%;
+    float: left;
+    margin-right:30px;
+
+}
+.code-skill description{
+    clear:left;
+}
+.middle-container{
+    margin:100px 0;
+
+}
+.bottom-container{  
+background-color: #668FBF;
+padding:50px 0 20px;
+}
+.skill-row{
+    width:50%;
+    margin:100px auto 100px auto;
+
+}
+.intro{
+    width:30%;
+    margin:auto;
+}
+.contact-message{
+    width:40%;
+    margin:40px auto 60px;
+
+}
+.copy-right{
+    color:#EAF6F6;
+    font-size:0.75rem;
+    padding:20px 0;
+    
+}
+.top-container{
+    background-color: #E4F9F5;
+    position:relative;
+    padding: top 100px; ;
+}
+#bottomcloud{
+    position: absolute;
+    left: 100px;
+    bottom: 1200px;
+}
+#cloud{
+  position: absolute;
+    right :200px;
+    top: 50px
+}
